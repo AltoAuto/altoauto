@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aiden-wang">
+  <a href="https://linkedin.com/in/aiden-wang](https://www.linkedin.com/in/aiden-wang-964082354/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
