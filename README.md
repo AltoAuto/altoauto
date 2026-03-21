@@ -22,12 +22,13 @@
 
 ---
 
-## What I'm working on
+## About
 
-- **[Motion_Control](https://github.com/altoauto/Motion_Control)** — C++ mechatronics project: empirical system identification on electromechanical hardware with closed-loop control
-- **[Komega_SST_CFD](https://github.com/altoauto/Komega_SST_CFD)** — 2D CFD solver for fully developed turbulent channel flow (Python)
-- **[Daikin_Valve_Testbench](https://github.com/altoauto/Daikin_Valve_Testbench)** — Simscape digital twin of a vapor compression loop for EXV/TXV valve testing (industry-sponsored)
-- **[HVAC_Fan_Gait_Study](https://github.com/altoauto/HVAC_Fan_Gait_Study)** — Horse gait–inspired airflow control to keep HVAC fans near peak efficiency
+I'm a mechanical engineer who writes code to make simulations run faster, controllers behave better, and physical systems easier to reason about.
+
+My work sits at the intersection of engineering physics and software, building CAD–FEA automation pipelines, real-time embedded control systems, and computational fluid dynamics solvers from scratch. I founded **AltoAuto** to bring that kind of tooling to engineering teams, and contribute to open-source scientific Python (PyMAPDL).
+
+Currently finishing my B.S. in ME at UMN, heading to Northeastern for M.S. Energy Systems.
 
 ---
 
