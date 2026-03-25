@@ -46,5 +46,6 @@ Currently finishing my B.S. in ME at UMN, heading to Northeastern for M.S. Energ
 
 ## Education
 
-**University of Minnesota – Twin Cities** — B.S. Mechanical Engineering, May 2026
+**University of Minnesota – Twin Cities** — B.S. Mechanical Engineering, May 2026 
+
 **Northeastern University** — M.S. Energy Systems, Expected May 2028
