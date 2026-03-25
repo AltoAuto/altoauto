@@ -24,11 +24,9 @@
 
 ## About
 
-I'm a mechanical engineer who writes code to make simulations run faster, controllers behave better, and physical systems easier to reason about.
-
-My work sits at the intersection of engineering physics and software, building CAD–FEA automation pipelines, real-time embedded control systems, and computational fluid dynamics solvers from scratch. I founded **AltoAuto** to bring that kind of tooling to engineering teams, and contribute to open-source scientific Python (PyMAPDL).
-
-Currently finishing my B.S. in ME at UMN, heading to Northeastern for M.S. Energy Systems.
+Mechanical engineer who writes code to make simulations faster and controllers smarter.
+Building CAD-FEA pipelines, embedded control systems, and CFD solvers from scratch.
+Founder @ AltoAuto · B.S. ME @ UMN → M.S. Energy Systems @ Northeastern
 
 ---
 
@@ -38,9 +36,15 @@ Currently finishing my B.S. in ME at UMN, heading to Northeastern for M.S. Energ
   <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,git,arduino&theme=light"/>
 </p>
 
+**Programming** &nbsp;·&nbsp; Python &nbsp;·&nbsp; C/C++ &nbsp;·&nbsp; MATLAB &nbsp;·&nbsp; FORTRAN &nbsp;·&nbsp; Git
+
 **Simulation & CAE** &nbsp;·&nbsp; SolidWorks &nbsp;·&nbsp; ANSYS Mechanical/Fluent &nbsp;·&nbsp; Simscape &nbsp;·&nbsp; OpenFOAM &nbsp;·&nbsp; Code\_Aster &nbsp;·&nbsp; Gmsh &nbsp;·&nbsp; RoboDK &nbsp;·&nbsp; OpenModelica &nbsp;·&nbsp; Creo
 
 **Controls & Embedded** &nbsp;·&nbsp; Allen-Bradley ControlLogix &nbsp;·&nbsp; Ladder Logic &nbsp;·&nbsp; PID/PI &nbsp;·&nbsp; LabVIEW &nbsp;·&nbsp; Simulink
+
+**ML & Scientific Computing** &nbsp;·&nbsp; PyTorch &nbsp;·&nbsp; PyTorch Geometric &nbsp;·&nbsp; PyMAPDL &nbsp;·&nbsp; PyVista &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; SciPy
+
+**CFD & Solvers** &nbsp;·&nbsp; Finite Volume Method &nbsp;·&nbsp; SIMPLE Scheme &nbsp;·&nbsp; k-ω SST &nbsp;·&nbsp; ACDI &nbsp;·&nbsp; Navier-Stokes
 
 ---
 
